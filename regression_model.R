@@ -1,3 +1,5 @@
+#create a regression model to communicate the claim that higher temperatures cause higher mortality
+
 setwd("~/Library/Mobile Documents/com~apple~CloudDocs/Env 175 Project 5")
 
 ##############
